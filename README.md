@@ -7,6 +7,7 @@ Classic MNIST dataset of hand drawn images. I trained this neural network from s
 Current best attempt gets 92% accuracy (!!!!) just using an extremely simple shallow network. 
 
 ## Best Results
+    - 0.92 accuracy
     - Learning rate: 0.1
     - Epochs: 1,000
     - One hidden layer containing 10x hidden units
